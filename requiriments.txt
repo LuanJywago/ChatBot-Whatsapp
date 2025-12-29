@@ -1,0 +1,4 @@
+flask
+twilio
+puthon-dotenv
+psycopg2-binary
