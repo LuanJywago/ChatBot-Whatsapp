@@ -8,4 +8,5 @@ class ChatState(Enum):
     ASK_DATE = "ask_date"
     ASK_TIME = "ask_time"
     WAITING_HUMAN = "waiting_human"
+    HUMAN_CHAT = "human_chat"  # <-- Novo estado: Bot fica em silêncio
     CLOSED = "closed"
